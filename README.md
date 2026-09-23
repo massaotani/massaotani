@@ -1,7 +1,6 @@
 # Hi there, I'm Massao Tani! 👋
 
 > **Software Engineer** | Tech Explorer | Java & React | 🇯🇵 🇧🇷
-> 🌐 **[https://tani-massao.vercel.app]((https://tani-massao.vercel.app))**
 > *Building clean Applications by day, exploring the World by night.*
 
 ---
@@ -34,3 +33,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**My Website**
+[![Website](https://img.shields.io/badge/Portfolio-massaotani.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tani-massao.vercel.app/)
