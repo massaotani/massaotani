@@ -1,20 +1,21 @@
-# Hi there, I'm Vitor Massao Tani Tatebe 👋
+# Hi there, I'm Massao Tani! 👋
 
-> **Full Stack Software Engineer** specializing in **Java (Spring Boot)**, **Microservices Architecture**, and modern frontends in **React & Next.js**.
+> **Software Engineer** | Tech Explorer | Java & React | 🇯🇵 🇧🇷  
+> *Building clean Applications by day, exploring Japan by night.*
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **Professional Experience**: 4+ years engineering scalable backend systems, REST APIs, and responsive web applications.
-- 🎓 **Education**: Postgraduate Degree in Web Development | B.S. in Information Systems from the **University of São Paulo (USP)**.
-- 🧠 **Key Capstone**: Engineered a zero-dependency **Multi-Layer Perceptron (MLP) Neural Network** from scratch in pure Java.
-- 📍 **Location**: Chiba, Japan 🇯🇵
-- 🌍 **Status**: Open to international software engineering opportunities.
+- 🎯 **Driven by Curiosity**: Fascinated by the intersection of tech and creativity, from AI and Robotics to chess strategy and music production, I see everything as an intricate puzzle. I love blending logic, patterns, and creativity to solve problems both on and off the screen.
+- ☕ **4+ Years in the Craft**: Turning complex ideas into smooth APIs and interactive Web/Mobile Apps using **Java (Spring Boot)** and **React Frameworks**.
+- 🎓 **Background**: B.S. in Information Systems from the **University of São Paulo (USP)** + Postgraduate in Full Stack Web Development.
+- ⛩️ **Base Camp**: Currently based in **Chiba, Japan**.
+- 🌍 **Current Vibe**: Exploring new places, learning constantly, and ready to discover the world.
 
 ---
 
-### 🛠 Technical Stack
+### 🛠 Tech I Play With
 
 **Backend & Architecture**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +28,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Databases & DevOps**  
+**Databases & Infrastructure**  
 ![Oracle](https://img.shields.io/badge/Oracle_11g--23ai-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
