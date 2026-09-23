@@ -1,7 +1,7 @@
 # Hi there, I'm Massao Tani! 👋
 
 > **Software Engineer** | Tech Explorer | Java & React | 🇯🇵 🇧🇷  
-> *Building clean Applications by day, exploring Japan, and the World, by night.*
+> *Building clean Applications by day, exploring the World by night.*
 
 ---
 
