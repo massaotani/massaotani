@@ -1,6 +1,6 @@
 # Hi there, I'm Massao Tani! 👋
 
-> **Software Engineer** | Tech Explorer | Java & React | 🇯🇵 🇧🇷 <br>
+> **Software Engineer** | Tech Explorer | Java & React | 🇧🇷 🇯🇵 <br>
 > *Building clean Applications by day, exploring the World by night.*
 
 ---
