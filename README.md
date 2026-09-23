@@ -1,6 +1,7 @@
 # Hi there, I'm Massao Tani! 👋
 
-> **Software Engineer** | Tech Explorer | Java & React | 🇯🇵 🇧🇷  
+> **Software Engineer** | Tech Explorer | Java & React | 🇯🇵 🇧🇷
+> 🌐 **[My Website]((https://tani-massao.vercel.app))**
 > *Building clean Applications by day, exploring the World by night.*
 
 ---
@@ -10,7 +11,7 @@
 - 🎯 **Driven by Curiosity**: Fascinated by the intersection of tech and creativity, from AI and Robotics to chess strategy and music production, I see everything as an intricate puzzle. I love blending logic, patterns, and creativity to solve problems both on and off the screen.
 - ☕ **4+ Years in the Craft**: Turning complex ideas into smooth APIs and interactive Web/Mobile Apps using **Java (Spring Boot)** and **React Frameworks**.
 - 🎓 **Background**: B.S. in Information Systems from the **University of São Paulo (USP)** + Postgraduate in Full Stack Web Development.
-- ⛩️ **Base Camp**: Currently based in **Chiba, Japan**.
+- ⛩️ **Base Camp**: From **São Paulo, Brazil**. Currently based in **Chiba, Japan**.
 - 🌍 **Current Vibe**: Exploring new places, learning constantly, and ready to discover the world.
 
 ---
