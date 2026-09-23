@@ -35,4 +35,4 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **My Website**
-[![Website](https://img.shields.io/badge/Portfolio-massaotani.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tani-massao.vercel.app/)
+![Website](https://tani-massao.vercel.app/)
